@@ -1,4 +1,4 @@
-class dog
+class Dog
 end
 
-my_dog = dog.new
+my_dog = Dog.new
